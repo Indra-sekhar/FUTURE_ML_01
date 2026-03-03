@@ -83,8 +83,8 @@ The model was evaluated using:
 ### 📊 Results
 
 MAE: **90445.6873628241**
-
 RMSE: **136338.631741449**
+MAPE: **34.674219867332425**
 
 (Lower values indicate better forecasting accuracy.)
 
