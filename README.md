@@ -82,14 +82,12 @@ The model was evaluated using:
 
 ### 📊 Results
 
-MAE: **90445.6873628241**
+MAE: 90445.69  
+RMSE: 136338.63  
+MAPE: 34.67%
 
-RMSE: **136338.631741449**
-
-MAPE: **34.674219867332425**
-
-(Lower values indicate better forecasting accuracy.)
-
+The model serves as a baseline forecasting approach. 
+While it captures overall trend patterns, advanced models such as Random Forest or Gradient Boosting could further improve forecasting accuracy.
 ---
 
 ## 📈 Visualizations
