@@ -82,8 +82,8 @@ The model was evaluated using:
 
 ### 📊 Results
 
-MAE: **XX.XX**  
-RMSE: **XX.XX**
+MAE: **18.10**  
+RMSE: **24.82**
 
 (Lower values indicate better forecasting accuracy.)
 
